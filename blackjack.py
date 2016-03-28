@@ -1,3 +1,12 @@
+"""
+Created by Nicholas Horn when he was bored on an airplane on his way to San Diego...
+Why didn't I just used classes...?
+
+Adding these comments to test git
+
+"""
+
+
 import random
 import sys
 num_players = 1
